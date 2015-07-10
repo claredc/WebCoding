@@ -1,0 +1,31 @@
+body {
+	overflow: hidden;
+}
+#container {
+	width: 960px;
+	height: 960px;
+	margin: auto;
+} 
+table {
+	border-spacing: 0;
+}
+td {
+	padding: 0;
+}
+button {
+	margin: 10px auto;
+	position: relative;
+
+	height: 30px;
+	width: auto;
+	font-family: serif;
+	font-size: 16px;
+	color: #222fff;
+	display: inline-block;
+}
+#newGrid{
+	left: 30%;
+}
+#colorRandom{
+	left: 60%;
+}
